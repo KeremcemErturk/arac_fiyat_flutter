@@ -1,4 +1,4 @@
-# arac_fiyat_flutter
+# Flutter ile araç fiyatı ve faizini hesaplama
 
 A new Flutter project.
 
