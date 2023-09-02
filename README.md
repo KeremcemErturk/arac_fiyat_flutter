@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![App Screenshot](https://github.com/KeremcemErturk/arac_fiyat_flutter/blob/main/screenshots/2023-09-02-191448_1920x1080_escrotum.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
