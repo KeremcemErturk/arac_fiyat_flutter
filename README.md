@@ -4,9 +4,9 @@
 
 ![App Screenshot](https://github.com/KeremcemErturk/arac_fiyat_flutter/blob/main/screenshots/2023-09-02-191505_1920x1080_escrotum.png)
 
-![App Screenshot]https://github.com/KeremcemErturk/arac_fiyat_flutter/blob/main/screenshots/2023-09-02-191523_1920x1080_escrotum.png)
+![App Screenshot](https://github.com/KeremcemErturk/arac_fiyat_flutter/blob/main/screenshots/2023-09-02-191523_1920x1080_escrotum.png)
 
-![App Screenshot]https://github.com/KeremcemErturk/arac_fiyat_flutter/blob/main/screenshots/2023-09-02-191526_1920x1080_escrotum.png)
+![App Screenshot](https://github.com/KeremcemErturk/arac_fiyat_flutter/blob/main/screenshots/2023-09-02-191526_1920x1080_escrotum.png)
 
 ## Getting Started
 
